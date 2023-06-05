@@ -32,7 +32,10 @@ const Head = () => {
         <input
           className=" inputBtn text-white px-4 rounded-l-full py-2  bg-transparent"
           type="text"
+          placeholder="Search"
+          
         />
+        
         <button className="text-white px-6 py-3 rounded-r-full text-center bg ">
           <TfiSearch size={20} />
         </button>
